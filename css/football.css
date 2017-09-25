@@ -1,0 +1,55 @@
+/* Set font type and weight for body */
+body {
+    font-family: Ubuntu;
+    font-weight:500;
+}
+
+/* Change bootstrap's primary color */
+.btn-primary {
+    background: #083045;
+    color: #FFFFFF;
+	border: #083045;
+}
+
+/* Customize table headers */
+th {
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+/* Dropdown options from My Leagues button */
+.btn-link{
+  border:none;
+  outline:none;
+  background:none;
+  cursor:pointer;
+  color:#333333;
+  padding:0;
+  text-decoration:none;
+  font-family:inherit;
+  font-size:1.4em;
+}
+
+/* Style My Leagues button on Leagues page */
+.dropdown-menu {
+  left: 50%;
+  right: auto;
+  text-align: center;
+  transform: translate(-50%, 0);
+}
+
+/* Emphasize area where users input their predictions */
+#homeP{
+  font-weight:600;
+  font-size:1.1em;
+  font-family:Arial;
+}
+#awayP{
+  font-weight:600;
+  font-size:1.1em;
+  font-family:Arial;
+}
+
+
+
+
