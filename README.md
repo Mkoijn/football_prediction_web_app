@@ -1,5 +1,7 @@
 # football_prediction_web_app
 
-A website for football enthusiasts.
+Predict English Premier League scorelines. 
 
-Predict Premier League scorelines. Create leagues and compete against your friends.
+Create leagues and compete against your friends.
+
+To Play:  http://ohsofootball.com/
