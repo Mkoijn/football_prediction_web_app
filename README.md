@@ -1,4 +1,4 @@
-# web_football_prediction_game
+# football_prediction_web_app
 
 A website for football enthusiasts.
 
